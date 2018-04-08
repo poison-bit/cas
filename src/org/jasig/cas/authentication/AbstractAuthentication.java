@@ -28,7 +28,7 @@ import org.springframework.util.Assert;
  * @version $Revision$ $Date: 2007-02-20 09:41:49 -0500 (Tue, 20 Feb
  * 2007) $
  * @since 3.0.3
- */
+ */ 
 public abstract class AbstractAuthentication implements Authentication {
 
     /** A Principal object representing the authenticated entity. */
